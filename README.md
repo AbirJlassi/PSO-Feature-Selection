@@ -21,7 +21,7 @@ An implementation of Particle Swarm Optimization (PSO) for feature selection in 
 - c1	Cognitive weight	(default 1.5)
 - c2	Social weight	(default 1.5) 
 
-##Required packages:
+## Required packages:
 
 - numpy
 - pandas
